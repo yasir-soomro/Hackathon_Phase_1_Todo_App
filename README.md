@@ -37,8 +37,6 @@ Hackathon_Phase_1_Todo_App/
 ├── todo.py # In-memory CRUD operations
 └── memory.py # Storage for tasks
 
-yaml
-Copy code
 
 ---
 
@@ -58,28 +56,24 @@ git clone https://github.com/yasir-soomro/Hackathon_Phase_1_Todo_App.git
 cd Hackathon_Phase_1_Todo_App
 Create and activate a virtual environment (optional but recommended):
 
-bash
-Copy code
+
 python -m venv .venv
 .venv\Scripts\activate      # Windows
 source .venv/bin/activate   # macOS/Linux
 Install dependencies (if any):
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Note: This Phase I console app is pure Python and does not require external libraries.
 
 Running the App
 Run the console app:
 
-bash
-Copy code
+
 python src/app.py
 You will see a menu:
 
 markdown
-Copy code
 PYTHON TODO APP
 ========================================
 1. Add Task
@@ -91,8 +85,7 @@ PYTHON TODO APP
 Follow prompts to manage your tasks in-memory.
 
 Example Usage
-yaml
-Copy code
+
 Enter your choice (1-6): 1
 Enter task title: Learn FastAPI
 Task added successfully!
@@ -117,14 +110,11 @@ This project is licensed under the MIT License.
 
 🔗 GitHub Repository: https://github.com/yasir-soomro/Hackathon_Phase_1_Todo_App
 
-yaml
-Copy code
+
 
 ---
 
-If you want, I can also **create a visually appealing version** with **badges (Python version, license, repo stars, etc.)** and a **short project summary at the top**, which looks **professional for GitHub**.  
 
-Do you want me to do that?
 
 
 
