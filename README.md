@@ -1,4 +1,3 @@
-﻿# Hackathon_Phase_1_Todo_App
 
 # Hackathon Phase I - Python Todo App
 
@@ -126,6 +125,7 @@ Copy code
 If you want, I can also **create a visually appealing version** with **badges (Python version, license, repo stars, etc.)** and a **short project summary at the top**, which looks **professional for GitHub**.  
 
 Do you want me to do that?
+
 
 
 
